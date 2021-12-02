@@ -1,0 +1,48 @@
+
+
+button {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    width: 200px;
+}
+.container {
+    background-color:rgb(100, 213, 228);
+    border-radius: 8px;
+    height:600px;
+    width:800px;
+    margin: 100px auto;
+    text-align: center;    
+}
+.form-div { 
+    background-color: white;
+    border-radius: 8px;
+    display:inline-block;
+    height: 400px;
+    width: 400px;
+    margin: 100px auto;
+    
+}
+
+#account_link {
+    text-decoration: none;
+}
+
+
+a {
+    color: lightgrey;
+}
+
+.passwordInputContainer {
+    position: relative;
+}
+
+.passwordInputLink {
+    position: absolute;
+    right: 0;
+}
+
+p {
+    color: #9e9ea7;
+    line-height: 28px;
+}
